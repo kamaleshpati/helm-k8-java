@@ -84,13 +84,4 @@ You may try [ngrok](https://ngrok.com/) as the last chance option
 
    Tweak .env file
 
-1. Please suggest a monitoring solutions for your system. How would you notify an admin
-that the resources are scarce?
 
-   A lot of option, you may want to start from prometheus-operator from coreos
-
-## Copyright
-
-You may use my work or its parts as you wish, but only with proper credits to me like this:
-
-Viacheslav - avoidik@gmail.com
