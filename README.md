@@ -5,7 +5,7 @@
 Target application might be found here:
 
 ```
-https://github.com/stantonk/java-docker-example.git
+https://github.com/kamaleshpati/java-docker-example.git
 ```
 
 ## Requirements

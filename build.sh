@@ -23,7 +23,7 @@ fi
 
 source ./.env
 
-git clone https://github.com/stantonk/java-docker-example.git
+git clone https://github.com/kamaleshpati/java-docker-example.git
 
 IS_RUN="$(docker-machine ls --filter "name=${MACHINE_NAME}" --filter "state=Running" -q)"
 if [[ -n "${IS_RUN}" ]]; then
